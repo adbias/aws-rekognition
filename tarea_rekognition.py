@@ -1,4 +1,3 @@
-import requests
 import boto3
 import logging
 from rekognition_objects import (RekognitionText, )
@@ -6,7 +5,7 @@ from botocore.exceptions import ClientError
 logger = logging.getLogger(__name__)
 handler = logging.FileHandler('log.txt','a')
 
-handler.setFormatter(logging.Formatter(logging.BASIC_FORMAT))
+handler.setFormatter(logging.Formatter("[%(asctime)s]:%(message)s"))
 logger.setLevel(logging.DEBUG)
 logger.addHandler(handler)
 
@@ -35,31 +34,46 @@ def usage_demo():
     print('-'*88)
     rekognition_client = boto3.client('rekognition')
     ###
-    filename=input("Name of the image: ")
-    t = input("Text of the image: ")
-    book_image = from_file(filename, rekognition_client)
+    filename=input("Name of the image (control): ")
+    t = input("Name of the image (test): ")
+    # Control
+    control_image = from_file("images/"+filename, rekognition_client)
     print(f"Detecting text in {filename}...")
-    texts = detect_text(book_image, filename, rekognition_client)
-    a = t.strip().split()
+    texts = detect_text(control_image, filename, rekognition_client)
+
+    # Test
+    test_image = from_file("images/"+t, rekognition_client)
+    print(f"Detecting text in {t}...")
+    a  = detect_text(test_image, t, rekognition_client)
+
     tmp = set()
+    tmp2 = set()
     for i in texts:
-        if i.kind == "WORD" and float(i.confidence) > confidence_value:
-            tmp.add(i)
-    if tmp == set(a):
-        print("true")
+        if i.kind == "WORD":
+            tmp.add(i.text.lower())
+    for i in a:
+        if i.kind == "WORD":
+            tmp2.add(i.text.lower())
+
+    if tmp == tmp2:
+        print("Result: true")
+        logger.debug("(Output):true")
     else:
-        print("false")
-    # print("Detected text:")
-    # print("*"*88)
-    logger.debug("Text given by the user: '%s'", t)
+        print("Result: false")
+        logger.debug("(Output):false")
 
     s = 0
     for i in texts:
-        logger.debug("Rekognition:text:%s, confidence:%s, kind:%s", i.text, i.confidence, i.kind)
+        logger.debug("(Rekognition %s):text:%s, confidence:%s, kind:%s",filename, i.text, i.confidence, i.kind)
         if i.kind == "WORD":
             s += len(i.text)
     logger.debug("Total characters: %d", s)
-    # print("*"*88)
+    s = 0
+    for i in a:
+        logger.debug("(Rekognition %s):text:%s, confidence:%s, kind:%s",t, i.text, i.confidence, i.kind)
+        if i.kind == "WORD":
+            s += len(i.text)
+    logger.debug("Total characters: %d", s)
     print("Done.")
     input("Press enter to continue.")
     print('-'*88)

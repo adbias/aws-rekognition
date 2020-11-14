@@ -1,0 +1,355 @@
+[2020-11-13 20:22:19,077]:Found 9 texts in control.png.
+[2020-11-13 20:22:25,894]:Found 59 texts in length.png.
+[2020-11-13 20:22:25,895]:(Output):false
+[2020-11-13 20:22:25,895]:(Rekognition):text:IT'S, confidence:99.88135528564453, kind:LINE
+[2020-11-13 20:22:25,895]:(Rekognition):text:MONDAY, confidence:99.97772979736328, kind:LINE
+[2020-11-13 20:22:25,895]:(Rekognition):text:but keep, confidence:99.8603286743164, kind:LINE
+[2020-11-13 20:22:25,895]:(Rekognition):text:Smiling, confidence:99.91976165771484, kind:LINE
+[2020-11-13 20:22:25,895]:(Rekognition):text:IT'S, confidence:99.88135528564453, kind:WORD
+[2020-11-13 20:22:25,895]:(Rekognition):text:MONDAY, confidence:99.97772979736328, kind:WORD
+[2020-11-13 20:22:25,895]:(Rekognition):text:but, confidence:99.84671783447266, kind:WORD
+[2020-11-13 20:22:25,895]:(Rekognition):text:keep, confidence:99.87393951416016, kind:WORD
+[2020-11-13 20:22:25,895]:(Rekognition):text:Smiling, confidence:99.91976165771484, kind:WORD
+[2020-11-13 20:22:25,895]:(Rekognition):text:Pruebas, confidence:99.30693817138672, kind:LINE
+[2020-11-13 20:22:25,895]:(Rekognition):text:Preparar Casos de Pruebas (pruebas cruzadas):, confidence:98.69788360595703, kind:LINE
+[2020-11-13 20:22:25,895]:(Rekognition):text:Valores Limite (ej: cantidad de palabras de la frase, de Confidence)., confidence:96.95465850830078, kind:LINE
+[2020-11-13 20:22:25,895]:(Rekognition):text:porcentaje, confidence:99.15994262695312, kind:LINE
+[2020-11-13 20:22:25,895]:(Rekognition):text:Clases de equivalencia, ficarlas claramente., confidence:97.23115539550781, kind:LINE
+[2020-11-13 20:22:25,896]:(Rekognition):text:Pruebas de cobertura de sentencia., confidence:96.38150024414062, kind:LINE
+[2020-11-13 20:22:25,896]:(Rekognition):text:Pruebas, confidence:96.92015075683594, kind:LINE
+[2020-11-13 20:22:25,896]:(Rekognition):text:de cobertura de rama., confidence:95.38286590576172, kind:LINE
+[2020-11-13 20:22:25,896]:(Rekognition):text:Se deben determinar los casos que se identifiquen como necesarios para asegurar Ia calidad del producto., confidence:93.72379302978516, kind:LINE
+[2020-11-13 20:22:25,896]:(Rekognition):text:Pruebas, confidence:99.30693817138672, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:Preparar, confidence:97.77171325683594, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:Casos, confidence:98.6565933227539, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:de, confidence:97.60969543457031, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:Pruebas, confidence:99.09974670410156, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:(pruebas, confidence:99.54863739013672, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:cruzadas):, confidence:99.50091552734375, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:Valores, confidence:97.60833740234375, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:Limite, confidence:99.521240234375, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:(ej:, confidence:97.07280731201172, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:cantidad, confidence:98.586669921875, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:de, confidence:96.69599914550781, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:palabras, confidence:99.28783416748047, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:de, confidence:97.66417694091797, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:la, confidence:85.9720687866211, kind:WORD
+[2020-11-13 20:22:25,896]:(Rekognition):text:frase,, confidence:96.98521423339844, kind:WORD
+[2020-11-13 20:22:25,897]:(Rekognition):text:porcentaje, confidence:99.15994262695312, kind:WORD
+[2020-11-13 20:22:25,897]:(Rekognition):text:de, confidence:98.00871276855469, kind:WORD
+[2020-11-13 20:22:25,897]:(Rekognition):text:Confidence)., confidence:99.09818267822266, kind:WORD
+[2020-11-13 20:22:25,897]:(Rekognition):text:Clases, confidence:98.63945770263672, kind:WORD
+[2020-11-13 20:22:25,897]:(Rekognition):text:de, confidence:98.0601577758789, kind:WORD
+[2020-11-13 20:22:25,897]:(Rekognition):text:equivalencia,, confidence:96.30070495605469, kind:WORD
+[2020-11-13 20:22:25,897]:(Rekognition):text:ficarlas, confidence:94.82669830322266, kind:WORD
+[2020-11-13 20:22:25,897]:(Rekognition):text:claramente., confidence:98.32876586914062, kind:WORD
+[2020-11-13 20:22:25,897]:(Rekognition):text:Pruebas, confidence:97.14222717285156, kind:WORD
+[2020-11-13 20:22:25,898]:(Rekognition):text:de, confidence:95.9090347290039, kind:WORD
+[2020-11-13 20:22:25,898]:(Rekognition):text:cobertura, confidence:97.15105438232422, kind:WORD
+[2020-11-13 20:22:25,898]:(Rekognition):text:de, confidence:95.33248138427734, kind:WORD
+[2020-11-13 20:22:25,898]:(Rekognition):text:sentencia., confidence:96.3726806640625, kind:WORD
+[2020-11-13 20:22:25,898]:(Rekognition):text:Pruebas, confidence:96.92015075683594, kind:WORD
+[2020-11-13 20:22:25,898]:(Rekognition):text:de, confidence:96.52872467041016, kind:WORD
+[2020-11-13 20:22:25,898]:(Rekognition):text:cobertura, confidence:97.73795318603516, kind:WORD
+[2020-11-13 20:22:25,898]:(Rekognition):text:de, confidence:95.7349624633789, kind:WORD
+[2020-11-13 20:22:25,898]:(Rekognition):text:rama., confidence:91.52981567382812, kind:WORD
+[2020-11-13 20:22:25,898]:(Rekognition):text:Se, confidence:89.83785247802734, kind:WORD
+[2020-11-13 20:22:25,899]:(Rekognition):text:deben, confidence:96.49769592285156, kind:WORD
+[2020-11-13 20:22:25,899]:(Rekognition):text:determinar, confidence:97.54227447509766, kind:WORD
+[2020-11-13 20:22:25,899]:(Rekognition):text:los, confidence:93.90216827392578, kind:WORD
+[2020-11-13 20:22:25,899]:(Rekognition):text:casos, confidence:94.10221862792969, kind:WORD
+[2020-11-13 20:22:25,899]:(Rekognition):text:que, confidence:96.7458724975586, kind:WORD
+[2020-11-13 20:22:25,899]:(Rekognition):text:se, confidence:90.88473510742188, kind:WORD
+[2020-11-13 20:22:25,899]:(Rekognition):text:identifiquen, confidence:94.86827087402344, kind:WORD
+[2020-11-13 20:22:25,899]:(Rekognition):text:como, confidence:94.7413330078125, kind:WORD
+[2020-11-13 20:22:25,899]:(Rekognition):text:necesarios, confidence:95.87738800048828, kind:WORD
+[2020-11-13 20:22:25,899]:(Rekognition):text:para, confidence:97.79444122314453, kind:WORD
+[2020-11-13 20:22:25,900]:(Rekognition):text:asegurar, confidence:95.85767364501953, kind:WORD
+[2020-11-13 20:22:25,900]:(Rekognition):text:Ia, confidence:66.3389892578125, kind:WORD
+[2020-11-13 20:22:25,900]:(Rekognition):text:calidad, confidence:98.77045440673828, kind:WORD
+[2020-11-13 20:22:25,900]:(Rekognition):text:del, confidence:96.76604461669922, kind:WORD
+[2020-11-13 20:22:25,900]:(Rekognition):text:producto., confidence:99.05326080322266, kind:WORD
+[2020-11-13 20:22:25,900]:Total characters: 300
+[2020-11-13 20:25:41,143]:Couldn't detect text in control.png.
+Traceback (most recent call last):
+  File ".\tarea_rekognition.py", line 16, in detect_text
+    response = rekognition_client.detect_text(Image=image)
+  File "C:\Users\Adbias\AppData\Local\Programs\Python\Python38\lib\site-packages\botocore\client.py", line 357, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+  File "C:\Users\Adbias\AppData\Local\Programs\Python\Python38\lib\site-packages\botocore\client.py", line 676, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ExpiredTokenException) when calling the DetectText operation: The security token included in the request is expired
+[2020-11-13 20:45:05,306]:Found 9 texts in control.png.
+[2020-11-13 20:45:23,169]:Found 9 texts in control.png.
+[2020-11-13 20:45:24,367]:Found 10 texts in test1.jpg.
+[2020-11-13 20:45:24,367]:(Output):false
+[2020-11-13 20:45:24,367]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:LINE
+[2020-11-13 20:45:24,367]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:LINE
+[2020-11-13 20:45:24,367]:(Rekognition control.png):text:but keep, confidence:99.8603286743164, kind:LINE
+[2020-11-13 20:45:24,367]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:LINE
+[2020-11-13 20:45:24,368]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:WORD
+[2020-11-13 20:45:24,368]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:WORD
+[2020-11-13 20:45:24,368]:(Rekognition control.png):text:but, confidence:99.84671783447266, kind:WORD
+[2020-11-13 20:45:24,368]:(Rekognition control.png):text:keep, confidence:99.87393951416016, kind:WORD
+[2020-11-13 20:45:24,368]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:WORD
+[2020-11-13 20:45:24,368]:Total characters: 24
+[2020-11-13 20:45:24,368]:(Rekognition test1.jpg):text:IT'S, confidence:99.78206634521484, kind:LINE
+[2020-11-13 20:45:24,368]:(Rekognition test1.jpg):text:MONDAY, confidence:99.9825439453125, kind:LINE
+[2020-11-13 20:45:24,368]:(Rekognition test1.jpg):text:but, confidence:99.98426055908203, kind:LINE
+[2020-11-13 20:45:24,368]:(Rekognition test1.jpg):text:KEEP, confidence:99.92091369628906, kind:LINE
+[2020-11-13 20:45:24,368]:(Rekognition test1.jpg):text:SMILING., confidence:99.72069549560547, kind:LINE
+[2020-11-13 20:45:24,368]:(Rekognition test1.jpg):text:IT'S, confidence:99.78206634521484, kind:WORD
+[2020-11-13 20:45:24,368]:(Rekognition test1.jpg):text:MONDAY, confidence:99.9825439453125, kind:WORD
+[2020-11-13 20:45:24,368]:(Rekognition test1.jpg):text:but, confidence:99.98426055908203, kind:WORD
+[2020-11-13 20:45:24,368]:(Rekognition test1.jpg):text:KEEP, confidence:99.92091369628906, kind:WORD
+[2020-11-13 20:45:24,369]:(Rekognition test1.jpg):text:SMILING., confidence:99.72069549560547, kind:WORD
+[2020-11-13 20:45:24,369]:Total characters: 25
+[2020-11-13 20:46:46,138]:Found 9 texts in control.png.
+[2020-11-13 20:46:48,131]:Found 14 texts in test2.jpg.
+[2020-11-13 20:46:48,131]:(Output):false
+[2020-11-13 20:46:48,131]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:LINE
+[2020-11-13 20:46:48,131]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:LINE
+[2020-11-13 20:46:48,131]:(Rekognition control.png):text:but keep, confidence:99.8603286743164, kind:LINE
+[2020-11-13 20:46:48,131]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:LINE
+[2020-11-13 20:46:48,132]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:WORD
+[2020-11-13 20:46:48,132]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:WORD
+[2020-11-13 20:46:48,132]:(Rekognition control.png):text:but, confidence:99.84671783447266, kind:WORD
+[2020-11-13 20:46:48,132]:(Rekognition control.png):text:keep, confidence:99.87393951416016, kind:WORD
+[2020-11-13 20:46:48,132]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:WORD
+[2020-11-13 20:46:48,132]:Total characters: 24
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:123RF, confidence:98.22134399414062, kind:LINE
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:It's Monday 23RF, confidence:95.86536407470703, kind:LINE
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:But Keep Smiling, confidence:99.0516357421875, kind:LINE
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:123RF, confidence:95.29916381835938, kind:LINE
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:123RF, confidence:98.18458557128906, kind:LINE
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:123RF, confidence:98.22134399414062, kind:WORD
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:23RF, confidence:87.96431732177734, kind:WORD
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:Monday, confidence:99.89701843261719, kind:WORD
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:It's, confidence:99.73475646972656, kind:WORD
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:Smiling, confidence:99.77666473388672, kind:WORD
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:Keep, confidence:98.98194122314453, kind:WORD
+[2020-11-13 20:46:48,132]:(Rekognition test2.jpg):text:But, confidence:98.39630889892578, kind:WORD
+[2020-11-13 20:46:48,133]:(Rekognition test2.jpg):text:123RF, confidence:98.18458557128906, kind:WORD
+[2020-11-13 20:46:48,133]:(Rekognition test2.jpg):text:123RF, confidence:95.29916381835938, kind:WORD
+[2020-11-13 20:46:48,133]:Total characters: 43
+[2020-11-13 20:47:24,354]:Found 9 texts in control.png.
+[2020-11-13 20:47:35,356]:Found 9 texts in control.png.
+[2020-11-13 20:47:36,454]:Found 9 texts in test3.jpg.
+[2020-11-13 20:47:36,455]:(Output):true
+[2020-11-13 20:47:36,455]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:LINE
+[2020-11-13 20:47:36,455]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:LINE
+[2020-11-13 20:47:36,455]:(Rekognition control.png):text:but keep, confidence:99.8603286743164, kind:LINE
+[2020-11-13 20:47:36,455]:(Rekognition control.png):text:Smiling, confidence:99.91976165771484, kind:LINE
+[2020-11-13 20:47:36,455]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:WORD
+[2020-11-13 20:47:36,456]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:WORD
+[2020-11-13 20:47:36,456]:(Rekognition control.png):text:but, confidence:99.84671783447266, kind:WORD
+[2020-11-13 20:47:36,456]:(Rekognition control.png):text:keep, confidence:99.87393951416016, kind:WORD
+[2020-11-13 20:47:36,456]:(Rekognition control.png):text:Smiling, confidence:99.91976165771484, kind:WORD
+[2020-11-13 20:47:36,456]:Total characters: 24
+[2020-11-13 20:47:36,456]:(Rekognition test3.jpg):text:IT'S, confidence:99.48456573486328, kind:LINE
+[2020-11-13 20:47:36,456]:(Rekognition test3.jpg):text:MONDAY, confidence:99.97332763671875, kind:LINE
+[2020-11-13 20:47:36,456]:(Rekognition test3.jpg):text:smiling, confidence:93.11797332763672, kind:LINE
+[2020-11-13 20:47:36,456]:(Rekognition test3.jpg):text:BUT KEEP, confidence:99.60042572021484, kind:LINE
+[2020-11-13 20:47:36,456]:(Rekognition test3.jpg):text:IT'S, confidence:99.48456573486328, kind:WORD
+[2020-11-13 20:47:36,456]:(Rekognition test3.jpg):text:MONDAY, confidence:99.97332763671875, kind:WORD
+[2020-11-13 20:47:36,456]:(Rekognition test3.jpg):text:smiling, confidence:93.11797332763672, kind:WORD
+[2020-11-13 20:47:36,456]:(Rekognition test3.jpg):text:BUT, confidence:99.75591278076172, kind:WORD
+[2020-11-13 20:47:36,456]:(Rekognition test3.jpg):text:KEEP, confidence:99.44493865966797, kind:WORD
+[2020-11-13 20:47:36,457]:Total characters: 24
+[2020-11-13 21:03:01,126]:Found 9 texts in control.png.
+[2020-11-13 21:03:02,395]:Found 10 texts in test4.jpg.
+[2020-11-13 21:03:02,395]:(Output):true
+[2020-11-13 21:03:02,395]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:LINE
+[2020-11-13 21:03:02,395]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:LINE
+[2020-11-13 21:03:02,395]:(Rekognition control.png):text:but keep, confidence:99.8603286743164, kind:LINE
+[2020-11-13 21:03:02,395]:(Rekognition control.png):text:Smiling, confidence:99.91976165771484, kind:LINE
+[2020-11-13 21:03:02,395]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:WORD
+[2020-11-13 21:03:02,395]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:WORD
+[2020-11-13 21:03:02,395]:(Rekognition control.png):text:but, confidence:99.84671783447266, kind:WORD
+[2020-11-13 21:03:02,395]:(Rekognition control.png):text:keep, confidence:99.87393951416016, kind:WORD
+[2020-11-13 21:03:02,395]:(Rekognition control.png):text:Smiling, confidence:99.91976165771484, kind:WORD
+[2020-11-13 21:03:02,396]:Total characters: 24
+[2020-11-13 21:03:02,396]:(Rekognition test4.jpg):text:IT'S, confidence:99.92403411865234, kind:LINE
+[2020-11-13 21:03:02,396]:(Rekognition test4.jpg):text:MONDAY, confidence:99.9828109741211, kind:LINE
+[2020-11-13 21:03:02,396]:(Rekognition test4.jpg):text:but, confidence:99.98685455322266, kind:LINE
+[2020-11-13 21:03:02,396]:(Rekognition test4.jpg):text:KEEP, confidence:99.97574615478516, kind:LINE
+[2020-11-13 21:03:02,396]:(Rekognition test4.jpg):text:SMILING, confidence:99.44226837158203, kind:LINE
+[2020-11-13 21:03:02,396]:(Rekognition test4.jpg):text:IT'S, confidence:99.92403411865234, kind:WORD
+[2020-11-13 21:03:02,396]:(Rekognition test4.jpg):text:MONDAY, confidence:99.9828109741211, kind:WORD
+[2020-11-13 21:03:02,396]:(Rekognition test4.jpg):text:but, confidence:99.98685455322266, kind:WORD
+[2020-11-13 21:03:02,396]:(Rekognition test4.jpg):text:KEEP, confidence:99.97574615478516, kind:WORD
+[2020-11-13 21:03:02,396]:(Rekognition test4.jpg):text:SMILING, confidence:99.44226837158203, kind:WORD
+[2020-11-13 21:03:02,396]:Total characters: 24
+[2020-11-13 21:11:24,306]:Found 9 texts in control.png.
+[2020-11-13 21:11:25,528]:Found 10 texts in test1.jpg.
+[2020-11-13 21:11:25,528]:(Output):false
+[2020-11-13 21:11:25,528]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:LINE
+[2020-11-13 21:11:25,528]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:LINE
+[2020-11-13 21:11:25,529]:(Rekognition control.png):text:but keep, confidence:99.8603286743164, kind:LINE
+[2020-11-13 21:11:25,529]:(Rekognition control.png):text:Smiling, confidence:99.91976165771484, kind:LINE
+[2020-11-13 21:11:25,529]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:WORD
+[2020-11-13 21:11:25,529]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:WORD
+[2020-11-13 21:11:25,529]:(Rekognition control.png):text:but, confidence:99.84671783447266, kind:WORD
+[2020-11-13 21:11:25,529]:(Rekognition control.png):text:keep, confidence:99.87393951416016, kind:WORD
+[2020-11-13 21:11:25,529]:(Rekognition control.png):text:Smiling, confidence:99.91976165771484, kind:WORD
+[2020-11-13 21:11:25,529]:Total characters: 24
+[2020-11-13 21:11:25,529]:(Rekognition test1.jpg):text:IT'S, confidence:99.78206634521484, kind:LINE
+[2020-11-13 21:11:25,529]:(Rekognition test1.jpg):text:MONDAY, confidence:99.9825439453125, kind:LINE
+[2020-11-13 21:11:25,529]:(Rekognition test1.jpg):text:but, confidence:99.98426055908203, kind:LINE
+[2020-11-13 21:11:25,529]:(Rekognition test1.jpg):text:KEEP, confidence:99.92091369628906, kind:LINE
+[2020-11-13 21:11:25,529]:(Rekognition test1.jpg):text:SMILING., confidence:99.72069549560547, kind:LINE
+[2020-11-13 21:11:25,529]:(Rekognition test1.jpg):text:IT'S, confidence:99.78206634521484, kind:WORD
+[2020-11-13 21:11:25,530]:(Rekognition test1.jpg):text:MONDAY, confidence:99.9825439453125, kind:WORD
+[2020-11-13 21:11:25,530]:(Rekognition test1.jpg):text:but, confidence:99.98426055908203, kind:WORD
+[2020-11-13 21:11:25,530]:(Rekognition test1.jpg):text:KEEP, confidence:99.92091369628906, kind:WORD
+[2020-11-13 21:11:25,530]:(Rekognition test1.jpg):text:SMILING., confidence:99.72069549560547, kind:WORD
+[2020-11-13 21:11:25,530]:Total characters: 25
+[2020-11-13 21:11:56,295]:Found 9 texts in control.png.
+[2020-11-13 21:11:58,434]:Found 14 texts in test2.jpg.
+[2020-11-13 21:11:58,434]:(Output):false
+[2020-11-13 21:11:58,434]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:LINE
+[2020-11-13 21:11:58,434]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:LINE
+[2020-11-13 21:11:58,434]:(Rekognition control.png):text:but keep, confidence:99.8603286743164, kind:LINE
+[2020-11-13 21:11:58,434]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:LINE
+[2020-11-13 21:11:58,435]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:WORD
+[2020-11-13 21:11:58,435]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:WORD
+[2020-11-13 21:11:58,435]:(Rekognition control.png):text:but, confidence:99.84671783447266, kind:WORD
+[2020-11-13 21:11:58,435]:(Rekognition control.png):text:keep, confidence:99.87393951416016, kind:WORD
+[2020-11-13 21:11:58,435]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:WORD
+[2020-11-13 21:11:58,435]:Total characters: 24
+[2020-11-13 21:11:58,435]:(Rekognition test2.jpg):text:123RF, confidence:98.22134399414062, kind:LINE
+[2020-11-13 21:11:58,435]:(Rekognition test2.jpg):text:It's Monday 23RF, confidence:95.86536407470703, kind:LINE
+[2020-11-13 21:11:58,435]:(Rekognition test2.jpg):text:But Keep Smiling, confidence:99.0516357421875, kind:LINE
+[2020-11-13 21:11:58,435]:(Rekognition test2.jpg):text:123RF, confidence:95.29916381835938, kind:LINE
+[2020-11-13 21:11:58,436]:(Rekognition test2.jpg):text:123RF, confidence:98.18458557128906, kind:LINE
+[2020-11-13 21:11:58,436]:(Rekognition test2.jpg):text:123RF, confidence:98.22134399414062, kind:WORD
+[2020-11-13 21:11:58,436]:(Rekognition test2.jpg):text:23RF, confidence:87.96431732177734, kind:WORD
+[2020-11-13 21:11:58,436]:(Rekognition test2.jpg):text:Monday, confidence:99.89701843261719, kind:WORD
+[2020-11-13 21:11:58,436]:(Rekognition test2.jpg):text:It's, confidence:99.73475646972656, kind:WORD
+[2020-11-13 21:11:58,436]:(Rekognition test2.jpg):text:Smiling, confidence:99.77666473388672, kind:WORD
+[2020-11-13 21:11:58,436]:(Rekognition test2.jpg):text:Keep, confidence:98.98194122314453, kind:WORD
+[2020-11-13 21:11:58,436]:(Rekognition test2.jpg):text:But, confidence:98.39630889892578, kind:WORD
+[2020-11-13 21:11:58,436]:(Rekognition test2.jpg):text:123RF, confidence:98.18458557128906, kind:WORD
+[2020-11-13 21:11:58,436]:(Rekognition test2.jpg):text:123RF, confidence:95.29916381835938, kind:WORD
+[2020-11-13 21:11:58,436]:Total characters: 43
+[2020-11-13 21:12:13,607]:Found 9 texts in control.png.
+[2020-11-13 21:12:14,786]:Found 9 texts in test3.jpg.
+[2020-11-13 21:12:14,786]:(Output):true
+[2020-11-13 21:12:14,786]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:LINE
+[2020-11-13 21:12:14,786]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:LINE
+[2020-11-13 21:12:14,786]:(Rekognition control.png):text:but keep, confidence:99.8603286743164, kind:LINE
+[2020-11-13 21:12:14,786]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:LINE
+[2020-11-13 21:12:14,786]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:WORD
+[2020-11-13 21:12:14,786]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:WORD
+[2020-11-13 21:12:14,786]:(Rekognition control.png):text:but, confidence:99.84671783447266, kind:WORD
+[2020-11-13 21:12:14,787]:(Rekognition control.png):text:keep, confidence:99.87393951416016, kind:WORD
+[2020-11-13 21:12:14,787]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:WORD
+[2020-11-13 21:12:14,787]:Total characters: 24
+[2020-11-13 21:12:14,787]:(Rekognition test3.jpg):text:IT'S, confidence:99.48456573486328, kind:LINE
+[2020-11-13 21:12:14,787]:(Rekognition test3.jpg):text:MONDAY, confidence:99.97332763671875, kind:LINE
+[2020-11-13 21:12:14,787]:(Rekognition test3.jpg):text:smiling, confidence:93.11797332763672, kind:LINE
+[2020-11-13 21:12:14,787]:(Rekognition test3.jpg):text:BUT KEEP, confidence:99.60042572021484, kind:LINE
+[2020-11-13 21:12:14,787]:(Rekognition test3.jpg):text:IT'S, confidence:99.48456573486328, kind:WORD
+[2020-11-13 21:12:14,787]:(Rekognition test3.jpg):text:MONDAY, confidence:99.97332763671875, kind:WORD
+[2020-11-13 21:12:14,787]:(Rekognition test3.jpg):text:smiling, confidence:93.11797332763672, kind:WORD
+[2020-11-13 21:12:14,787]:(Rekognition test3.jpg):text:BUT, confidence:99.75591278076172, kind:WORD
+[2020-11-13 21:12:14,787]:(Rekognition test3.jpg):text:KEEP, confidence:99.44493865966797, kind:WORD
+[2020-11-13 21:12:14,787]:Total characters: 24
+[2020-11-13 21:12:31,613]:Found 9 texts in control.png.
+[2020-11-13 21:12:44,651]:Found 9 texts in control.png.
+[2020-11-13 21:12:45,764]:Found 10 texts in test4.jpg.
+[2020-11-13 21:12:45,764]:(Output):true
+[2020-11-13 21:12:45,764]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:LINE
+[2020-11-13 21:12:45,764]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:LINE
+[2020-11-13 21:12:45,764]:(Rekognition control.png):text:but keep, confidence:99.8603286743164, kind:LINE
+[2020-11-13 21:12:45,764]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:LINE
+[2020-11-13 21:12:45,764]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:WORD
+[2020-11-13 21:12:45,764]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:WORD
+[2020-11-13 21:12:45,764]:(Rekognition control.png):text:but, confidence:99.84671783447266, kind:WORD
+[2020-11-13 21:12:45,765]:(Rekognition control.png):text:keep, confidence:99.87393951416016, kind:WORD
+[2020-11-13 21:12:45,765]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:WORD
+[2020-11-13 21:12:45,765]:Total characters: 24
+[2020-11-13 21:12:45,765]:(Rekognition test4.jpg):text:IT'S, confidence:99.92403411865234, kind:LINE
+[2020-11-13 21:12:45,765]:(Rekognition test4.jpg):text:MONDAY, confidence:99.9828109741211, kind:LINE
+[2020-11-13 21:12:45,765]:(Rekognition test4.jpg):text:but, confidence:99.98685455322266, kind:LINE
+[2020-11-13 21:12:45,765]:(Rekognition test4.jpg):text:KEEP, confidence:99.97574615478516, kind:LINE
+[2020-11-13 21:12:45,765]:(Rekognition test4.jpg):text:SMILING, confidence:99.44226837158203, kind:LINE
+[2020-11-13 21:12:45,765]:(Rekognition test4.jpg):text:IT'S, confidence:99.92403411865234, kind:WORD
+[2020-11-13 21:12:45,765]:(Rekognition test4.jpg):text:MONDAY, confidence:99.9828109741211, kind:WORD
+[2020-11-13 21:12:45,765]:(Rekognition test4.jpg):text:but, confidence:99.98685455322266, kind:WORD
+[2020-11-13 21:12:45,765]:(Rekognition test4.jpg):text:KEEP, confidence:99.97574615478516, kind:WORD
+[2020-11-13 21:12:45,765]:(Rekognition test4.jpg):text:SMILING, confidence:99.44226837158203, kind:WORD
+[2020-11-13 21:12:45,765]:Total characters: 24
+[2020-11-13 21:13:02,396]:Found 9 texts in control.png.
+[2020-11-13 21:13:08,660]:Found 59 texts in length.png.
+[2020-11-13 21:13:08,661]:(Output):false
+[2020-11-13 21:13:08,661]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:LINE
+[2020-11-13 21:13:08,661]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:LINE
+[2020-11-13 21:13:08,661]:(Rekognition control.png):text:but keep, confidence:99.8603286743164, kind:LINE
+[2020-11-13 21:13:08,661]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:LINE
+[2020-11-13 21:13:08,661]:(Rekognition control.png):text:IT'S, confidence:99.88135528564453, kind:WORD
+[2020-11-13 21:13:08,661]:(Rekognition control.png):text:MONDAY, confidence:99.97772979736328, kind:WORD
+[2020-11-13 21:13:08,661]:(Rekognition control.png):text:but, confidence:99.84671783447266, kind:WORD
+[2020-11-13 21:13:08,662]:(Rekognition control.png):text:keep, confidence:99.87393951416016, kind:WORD
+[2020-11-13 21:13:08,662]:(Rekognition control.png):text:Smiling, confidence:99.91683959960938, kind:WORD
+[2020-11-13 21:13:08,662]:Total characters: 24
+[2020-11-13 21:13:08,662]:(Rekognition length.png):text:Pruebas, confidence:99.30693817138672, kind:LINE
+[2020-11-13 21:13:08,662]:(Rekognition length.png):text:Preparar Casos de Pruebas (pruebas cruzadas):, confidence:98.69788360595703, kind:LINE
+[2020-11-13 21:13:08,662]:(Rekognition length.png):text:Valores Limite (ej: cantidad de palabras de la frase, de Confidence)., confidence:96.95465850830078, kind:LINE
+[2020-11-13 21:13:08,662]:(Rekognition length.png):text:porcentaje, confidence:99.15994262695312, kind:LINE
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:Clases de equivalencia, ficarlas claramente., confidence:97.23115539550781, kind:LINE
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:Pruebas de cobertura de sentencia., confidence:96.38150024414062, kind:LINE
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:Pruebas, confidence:96.92015075683594, kind:LINE
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:de cobertura de rama., confidence:95.38286590576172, kind:LINE
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:Se deben determinar los casos que se identifiquen como necesarios para asegurar Ia calidad del producto., confidence:93.72379302978516, kind:LINE
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:Pruebas, confidence:99.30693817138672, kind:WORD
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:Preparar, confidence:97.77171325683594, kind:WORD
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:Casos, confidence:98.6565933227539, kind:WORD
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:de, confidence:97.60969543457031, kind:WORD
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:Pruebas, confidence:99.09974670410156, kind:WORD
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:(pruebas, confidence:99.54863739013672, kind:WORD
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:cruzadas):, confidence:99.50091552734375, kind:WORD
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:Valores, confidence:97.60833740234375, kind:WORD
+[2020-11-13 21:13:08,663]:(Rekognition length.png):text:Limite, confidence:99.521240234375, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:(ej:, confidence:97.07280731201172, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:cantidad, confidence:98.586669921875, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:de, confidence:96.69599914550781, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:palabras, confidence:99.28783416748047, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:de, confidence:97.66417694091797, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:la, confidence:85.9720687866211, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:frase,, confidence:96.98521423339844, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:porcentaje, confidence:99.15994262695312, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:de, confidence:98.00871276855469, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:Confidence)., confidence:99.09818267822266, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:Clases, confidence:98.63945770263672, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:de, confidence:98.0601577758789, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:equivalencia,, confidence:96.30070495605469, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:ficarlas, confidence:94.82669830322266, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:claramente., confidence:98.32876586914062, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:Pruebas, confidence:97.14222717285156, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:de, confidence:95.9090347290039, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:cobertura, confidence:97.15105438232422, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:de, confidence:95.33248138427734, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:sentencia., confidence:96.3726806640625, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:Pruebas, confidence:96.92015075683594, kind:WORD
+[2020-11-13 21:13:08,664]:(Rekognition length.png):text:de, confidence:96.52872467041016, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:cobertura, confidence:97.73795318603516, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:de, confidence:95.7349624633789, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:rama., confidence:91.52981567382812, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:Se, confidence:89.83785247802734, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:deben, confidence:96.49769592285156, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:determinar, confidence:97.54227447509766, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:los, confidence:93.90216827392578, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:casos, confidence:94.10221862792969, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:que, confidence:96.7458724975586, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:se, confidence:90.88473510742188, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:identifiquen, confidence:94.86827087402344, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:como, confidence:94.7413330078125, kind:WORD
+[2020-11-13 21:13:08,665]:(Rekognition length.png):text:necesarios, confidence:95.87738800048828, kind:WORD
+[2020-11-13 21:13:08,666]:(Rekognition length.png):text:para, confidence:97.79444122314453, kind:WORD
+[2020-11-13 21:13:08,666]:(Rekognition length.png):text:asegurar, confidence:95.85767364501953, kind:WORD
+[2020-11-13 21:13:08,666]:(Rekognition length.png):text:Ia, confidence:66.3389892578125, kind:WORD
+[2020-11-13 21:13:08,666]:(Rekognition length.png):text:calidad, confidence:98.77045440673828, kind:WORD
+[2020-11-13 21:13:08,666]:(Rekognition length.png):text:del, confidence:96.76604461669922, kind:WORD
+[2020-11-13 21:13:08,666]:(Rekognition length.png):text:producto., confidence:99.05326080322266, kind:WORD
+[2020-11-13 21:13:08,666]:Total characters: 300
